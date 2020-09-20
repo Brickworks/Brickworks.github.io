@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Brickworks
 
-You can use the [editor on GitHub](https://github.com/Brickworks/brickworks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Brickworks is a group of engineers who are passionate about aerospace. The
+group formed in November 2018 as an outlet for alumni members of the
+student-faculty research group RIT Space Exploration (SPEX) to continue
+doing space-related engineering projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Brickworks's mission is to do novel things with accesible hardware, share
+the knowledge gained along the way, and set an example of excellence for
+similar hobby projects.
 
-### Markdown
+## Nucleus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brickworks/brickworks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Nucleus](https://brickworks.github.io/Nucleus/) is a high altitude
+balloon technology demonstration mission. The key objectives of this
+mission are to develop a robust avionics architecture, experiment
+with core technologies which enable long duration flights, broadcast
+telemetry to a remote ground terminal, and optionally collect high 
+quality images from high altitudes. As a technology demonstrator,
+Nucleus flight systems are designed  with the intent to be improved
+or expanded upon in future missions.
