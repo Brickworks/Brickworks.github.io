@@ -1,9 +1,10 @@
 # Brickworks
 
-Brickworks is a group of engineers who are passionate about aerospace. The
-group formed in November 2018 as an outlet for alumni members of the
-student-faculty research group RIT Space Exploration (SPEX) to continue
-doing space-related engineering projects.
+[Brickworks](https://github.com/Brickworks) is a group of engineers 
+who are passionate about aerospace. The group formed in November 2018 
+as an outlet for alumni members of the student-faculty research group
+RIT Space Exploration (SPEX) to continue doing space-related engineering
+projects.
 
 Brickworks's mission is to do novel things with accesible hardware, share
 the knowledge gained along the way, and set an example of excellence for
